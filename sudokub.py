@@ -9,7 +9,6 @@ import copy
 """
     course  : INFO9015 
     year    : 2023
-    author  : Simon Gardier (S192580)
 """
 
 # reads a sudoku from file
